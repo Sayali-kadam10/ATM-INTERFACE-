@@ -27,12 +27,12 @@ $ python atm.py
 4. Transaction History
 5. Exit
    
-Enter your choice: 2
-Enter your account number: 123456
-Enter your PIN: 7890
-Enter deposit amount: 500
-$500 deposited successfully.
-Remaining balance: $1500
+Enter your choice: 2 ;
+Enter your account number: 123456 ;
+Enter your PIN: 7890 ;
+Enter deposit amount: 500 ;
+$500 deposited successfully. ;
+Remaining balance: $1500 ;
 
 **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
